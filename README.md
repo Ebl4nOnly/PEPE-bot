@@ -1,2 +1,2 @@
-# podsos-bot
-Official website and legal pages for Podsos Discord Bot
+# PEPE-bot
+Official website and legal pages for PEPE Discord Bot
